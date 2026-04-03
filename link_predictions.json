@@ -1,0 +1,302 @@
+[
+  {
+    "head": "HumanAgent",
+    "relation": "hasCapability",
+    "tail": "Capability",
+    "score": -8.112635612487793
+  },
+  {
+    "head": "HumanAgent",
+    "relation": "hasCapability",
+    "tail": "Communication",
+    "score": -9.395207405090332
+  },
+  {
+    "head": "HumanAgent",
+    "relation": "hasCapability",
+    "tail": "Evidence_GameInteractionLogs",
+    "score": -9.705548286437988
+  },
+  {
+    "head": "HumanAgent",
+    "relation": "hasCapability",
+    "tail": "Data_TrustGameLogs",
+    "score": -9.705963134765625
+  },
+  {
+    "head": "HumanAgent",
+    "relation": "hasCapability",
+    "tail": "Data",
+    "score": -9.840032577514648
+  },
+  {
+    "head": "HumanAgent",
+    "relation": "operatesInContext",
+    "tail": "Context",
+    "score": -8.025381088256836
+  },
+  {
+    "head": "HumanAgent",
+    "relation": "operatesInContext",
+    "tail": "ChildUser",
+    "score": -9.215239524841309
+  },
+  {
+    "head": "HumanAgent",
+    "relation": "operatesInContext",
+    "tail": "HumanExperimenter",
+    "score": -9.590869903564453
+  },
+  {
+    "head": "HumanAgent",
+    "relation": "operatesInContext",
+    "tail": "ChatbotUserAgent",
+    "score": -9.617291450500488
+  },
+  {
+    "head": "HumanAgent",
+    "relation": "operatesInContext",
+    "tail": "RepeatedInterventionsExecution",
+    "score": -9.621272087097168
+  },
+  {
+    "head": "HumanAgent",
+    "relation": "hasMember",
+    "tail": "BrainAgeAssessmentExecution",
+    "score": -9.126008033752441
+  },
+  {
+    "head": "HumanAgent",
+    "relation": "hasMember",
+    "tail": "Goal",
+    "score": -9.617094039916992
+  },
+  {
+    "head": "HumanAgent",
+    "relation": "hasMember",
+    "tail": "Context",
+    "score": -9.647177696228027
+  },
+  {
+    "head": "HumanAgent",
+    "relation": "hasMember",
+    "tail": "TrustCalibrationAssessmentData",
+    "score": -9.778403282165527
+  },
+  {
+    "head": "HumanAgent",
+    "relation": "hasMember",
+    "tail": "Data",
+    "score": -9.88206672668457
+  },
+  {
+    "head": "HumanAgent",
+    "relation": "requiresTask",
+    "tail": "RetrievedMemoryData",
+    "score": -9.012065887451172
+  },
+  {
+    "head": "HumanAgent",
+    "relation": "requiresTask",
+    "tail": "PredictedProteinStructureData",
+    "score": -9.398658752441406
+  },
+  {
+    "head": "HumanAgent",
+    "relation": "requiresTask",
+    "tail": "ArchivalFootageDataset",
+    "score": -9.555521965026855
+  },
+  {
+    "head": "HumanAgent",
+    "relation": "requiresTask",
+    "tail": "HumanAgent",
+    "score": -9.592986106872559
+  },
+  {
+    "head": "HumanAgent",
+    "relation": "requiresTask",
+    "tail": "PAMAP2SensorData",
+    "score": -9.597944259643555
+  },
+  {
+    "head": "ArtificialAgent",
+    "relation": "hasCapability",
+    "tail": "Capability",
+    "score": -6.494358062744141
+  },
+  {
+    "head": "ArtificialAgent",
+    "relation": "hasCapability",
+    "tail": "ProteinAnalysisExecution",
+    "score": -9.391168594360352
+  },
+  {
+    "head": "ArtificialAgent",
+    "relation": "hasCapability",
+    "tail": "DecisionEvent_MoralJudgement",
+    "score": -9.474743843078613
+  },
+  {
+    "head": "ArtificialAgent",
+    "relation": "hasCapability",
+    "tail": "CodeGenerationExecution_01",
+    "score": -9.63796615600586
+  },
+  {
+    "head": "ArtificialAgent",
+    "relation": "hasCapability",
+    "tail": "Interaction",
+    "score": -9.763453483581543
+  },
+  {
+    "head": "ArtificialAgent",
+    "relation": "operatesInContext",
+    "tail": "HumanAgent",
+    "score": -8.841105461120605
+  },
+  {
+    "head": "ArtificialAgent",
+    "relation": "operatesInContext",
+    "tail": "Context",
+    "score": -9.165132522583008
+  },
+  {
+    "head": "ArtificialAgent",
+    "relation": "operatesInContext",
+    "tail": "Goal",
+    "score": -9.601308822631836
+  },
+  {
+    "head": "ArtificialAgent",
+    "relation": "operatesInContext",
+    "tail": "TaskExecution",
+    "score": -9.627105712890625
+  },
+  {
+    "head": "ArtificialAgent",
+    "relation": "operatesInContext",
+    "tail": "DecisionEvent_LifestyleRecommendation",
+    "score": -9.646690368652344
+  },
+  {
+    "head": "ArtificialAgent",
+    "relation": "hasMember",
+    "tail": "TaskExecution",
+    "score": -9.251657485961914
+  },
+  {
+    "head": "ArtificialAgent",
+    "relation": "hasMember",
+    "tail": "Experiment",
+    "score": -9.440459251403809
+  },
+  {
+    "head": "ArtificialAgent",
+    "relation": "hasMember",
+    "tail": "UseCase",
+    "score": -9.455921173095703
+  },
+  {
+    "head": "ArtificialAgent",
+    "relation": "hasMember",
+    "tail": "Task_LifestyleRecommendation",
+    "score": -9.484685897827148
+  },
+  {
+    "head": "ArtificialAgent",
+    "relation": "hasMember",
+    "tail": "HumanAgent",
+    "score": -9.574300765991211
+  },
+  {
+    "head": "ArtificialAgent",
+    "relation": "requiresTask",
+    "tail": "Capability",
+    "score": -9.179092407226562
+  },
+  {
+    "head": "ArtificialAgent",
+    "relation": "requiresTask",
+    "tail": "FaceMatchingHITeam",
+    "score": -9.197436332702637
+  },
+  {
+    "head": "ArtificialAgent",
+    "relation": "requiresTask",
+    "tail": "ArtificialAgent",
+    "score": -9.252220153808594
+  },
+  {
+    "head": "ArtificialAgent",
+    "relation": "requiresTask",
+    "tail": "CollaborativeLearningPlanInteraction_01",
+    "score": -9.633530616760254
+  },
+  {
+    "head": "ArtificialAgent",
+    "relation": "requiresTask",
+    "tail": "Interaction_GazeInteraction1",
+    "score": -9.636330604553223
+  },
+  {
+    "head": "Clinician",
+    "relation": "hasCapability",
+    "tail": "DecisionConfidence",
+    "score": -5.9422149658203125
+  },
+  {
+    "head": "Clinician",
+    "relation": "hasCapability",
+    "tail": "TrustInAutomation",
+    "score": -6.0605950355529785
+  },
+  {
+    "head": "Clinician",
+    "relation": "hasCapability",
+    "tail": "Responsibility",
+    "score": -6.853980541229248
+  },
+  {
+    "head": "Clinician",
+    "relation": "hasCapability",
+    "tail": "Communication",
+    "score": -9.275989532470703
+  },
+  {
+    "head": "Clinician",
+    "relation": "hasCapability",
+    "tail": "WizardOfOzInteraction",
+    "score": -9.516683578491211
+  },
+  {
+    "head": "Clinician",
+    "relation": "operatesInContext",
+    "tail": "DiagnosticUncertaintyContext",
+    "score": -6.549382209777832
+  },
+  {
+    "head": "Clinician",
+    "relation": "operatesInContext",
+    "tail": "CooperativeCuisine",
+    "score": -9.289215087890625
+  },
+  {
+    "head": "Clinician",
+    "relation": "operatesInContext",
+    "tail": "UserState_TrustInLLM",
+    "score": -9.878543853759766
+  },
+  {
+    "head": "Clinician",
+    "relation": "operatesInContext",
+    "tail": "Goal",
+    "score": -9.88796615600586
+  },
+  {
+    "head": "Clinician",
+    "relation": "operatesInContext",
+    "tail": "RobotAssistedLearningContext",
+    "score": -9.986352920532227
+  }
+]
